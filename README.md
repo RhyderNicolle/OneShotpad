@@ -30,7 +30,7 @@ Display: 0.96" I2C OLED
 <img width="1195" height="729" alt="WithoutTop" src="https://github.com/user-attachments/assets/b2e34f6d-a789-49e1-b212-a3de51763838" />
 
 ## PCB
-
+I designed the PCB with **KiCad**
 <img width="1068" height="640" alt="PCBpic" src="https://github.com/user-attachments/assets/1ed0e6f2-0ac6-44d6-9420-eae4ac2f366f" />
 
 
@@ -41,7 +41,7 @@ Display: 0.96" I2C OLED
 
 
 ## CAD
-I used both Inventor and Fusion
+I used both **Inventor** and **Fusion 360** with intention for the case to be printed by a 3d printer.
 
 ## Challenges
 It was hard to manage my research in design and creation while balancing work and school.
